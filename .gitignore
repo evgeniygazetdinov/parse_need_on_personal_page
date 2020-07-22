@@ -1,0 +1,5 @@
+settings.php
+*php.swo
+*php.swp
+/vendor/
+madeline.php
