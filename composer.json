@@ -1,4 +1,6 @@
 {
     "name": "evgesha/parser",
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
 }
