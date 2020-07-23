@@ -2,4 +2,7 @@ settings.php
 *php.swo
 *php.swp
 /vendor/
-madeline.php
+composer.lock
+madeline.*
+session.*
+.vscode/
